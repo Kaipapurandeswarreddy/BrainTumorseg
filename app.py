@@ -177,7 +177,7 @@ with gr.Blocks(theme=theme, css=css, title="BraTS Tumor Segmentation") as app:
                 gr.Markdown("### 🤖 AI Settings")
                 api_key_input = gr.Textbox(
                     label="Google Gemini API Key", 
-                    value="AIzaSyAvt5aMwyaff9INQjAgZGyiynAA3NOGdvI",
+                    value="",
                     type="password",
                     placeholder="AIzaSy..."
                 )
