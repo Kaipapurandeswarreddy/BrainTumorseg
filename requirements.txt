@@ -1,0 +1,7 @@
+monai
+nibabel
+gradio
+matplotlib
+torch
+numpy
+google-genai
